@@ -15,3 +15,5 @@ Sorted data by confirmed/recovered cases.
 
 # Tools & Skills
 Pandas | Data Filtering | Aggregation | Sorting
+
+ <img width="1314" height="674" alt="Complete Project SC" src= https://github.com/Ashishhhh2/Data-Analyst-Covid-Dataset/blob/main/Covid%2019%20Dataset.png/>
